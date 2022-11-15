@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86792444155",
+    "project_id": "expacto-patronam",
+    "storage_bucket": "expacto-patronam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86792444155:android:e42aeaa763d1e23aec385e",
+        "android_client_info": {
+          "package_name": "com.epsilon.easyapps.expacto_patronam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86792444155-0ch3uvi3npl3unsa595lkqvsl9ef5of7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epsilon.easyapps.expacto_patronam",
+            "certificate_hash": "18e0d8db9aedca36295cf1d0f24d09a0ef466aa6"
+          }
+        },
+        {
+          "client_id": "86792444155-316fbsii9lj792cbkk835uc7shcgl0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-OLx3jSs9vrP4WRXoNtq9_TLoh9S8adk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86792444155-316fbsii9lj792cbkk835uc7shcgl0jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
